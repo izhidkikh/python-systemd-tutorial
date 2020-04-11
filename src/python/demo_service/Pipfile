@@ -33,4 +33,4 @@ six = "==1.14.0"
 urllib3 = "==1.25.8"
 
 [requires]
-python_version = "3.7"
+python_version = "3.6"
